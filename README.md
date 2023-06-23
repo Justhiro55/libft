@@ -8,6 +8,8 @@ Run the following commands:
 Run the following commands:
 - To compile
   - make
+- To compile including bonus
+  - make bonus
 - To remove objects:
   - make clean
 - To remove objects and binary file (program):
