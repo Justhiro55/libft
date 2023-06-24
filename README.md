@@ -17,3 +17,10 @@ Run the following commands:
   - make fclean
 - To re-compile:
   - make re
+## Testing
+### Third-party tester
+I tested the library with this third-party tester:
+
+- [libftTester](https://github.com/Tripouille/libftTester)
+- [libft-unit-test](https://github.com/alelievr/libft-unit-test)
+- [libft-tester-tokyo](https://github.com/usatie/libft-tester-tokyo)
